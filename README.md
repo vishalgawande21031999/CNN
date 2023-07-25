@@ -3,7 +3,7 @@
 ## dependencies:
 python >=3.8
 
-for direct installation
+### for direct installation
 pip install ultralytics
 
 ## Training ML model:
